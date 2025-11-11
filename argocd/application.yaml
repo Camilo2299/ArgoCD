@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/<TU_USUARIO>/gitops-argocd-poc.git
+    repoURL: https://github.com/Camilo2299/ArgoCD.git
     targetRevision: main
     path: app
   destination:
